@@ -1,0 +1,381 @@
+RODADA,MANDANTE,VISITANTE,VENCEDOR,MANDANTE_PLACAR,VISITANTE_PLACAR,BRASILEIRAO
+1,Flamengo,Atletico-GO,,,,2024
+1,Botafogo,São Paulo,,,,2024
+1,Palmeiras,Cuiabá,,,,2024
+1,Corinthians,Cruzeiro,,,,2024
+1,Bragantino,Bahia,,,,2024
+1,Atlético-MG,Sport,,,,2024
+1,Grêmio,Santos,,,,2024
+1,Athletico-PR,Juventude,,,,2024
+1,Fortaleza,Internacional,,,,2024
+1,América-MG,Fluminense,,,,2024
+2,Fluminense,Athletico-PR,,,,2024
+2,Sport,Palmeiras,,,,2024
+2,São Paulo,Vitória,,,,2024
+2,Santos,Atlético-MG,,,,2024
+2,Juventude,Corinthians,,,,2024
+2,Cruzeiro,Grêmio,,,,2024
+2,Internacional,Flamengo,,,,2024
+2,Atletico-GO,Fortaleza,,,,2024
+2,Bahia,Botafogo,,,,2024
+2,Cuiabá,Bragantino,,,,2024
+3,Flamengo,Botafogo,,,,2024
+3,Sport,Bahia,,,,2024
+3,Palmeiras,Corinthians,,,,2024
+3,Santos,Vitória,,,,2024
+3,Bragantino,Cruzeiro,,,,2024
+3,Atlético-MG,Athletico-PR,,,,2024
+3,Internacional,Juventude,,,,2024
+3,Atletico-GO,São Paulo,,,,2024
+3,Fortaleza,Fluminense,,,,2024
+3,Cuiabá,Grêmio,,,,2024
+4,Fluminense,Sport,,,,2024
+4,Botafogo,Atlético-MG,,,,2024
+4,São Paulo,Internacional,,,,2024
+4,Corinthians,Fortaleza,,,,2024
+4,Juventude,Palmeiras,,,,2024
+4,Cruzeiro,Santos,,,,2024
+4,Grêmio,Bragantino,,,,2024
+4,Athletico-PR,Flamengo,,,,2024
+4,Bahia,Atletico-GO,,,,2024
+4,Vitória,Cuiabá,,,,2024
+5,Flamengo,Juventude,,,,2024
+5,Botafogo,Corinthians,,,,2024
+5,Palmeiras,Grêmio,,,,2024
+5,Santos,Bahia,,,,2024
+5,Bragantino,Vitória,,,,2024
+5,Cruzeiro,Fluminense,,,,2024
+5,Internacional,Athletico-PR,,,,2024
+5,Atletico-GO,Sport,,,,2024
+5,Fortaleza,São Paulo,,,,2024
+5,Cuiabá,Atlético-MG,,,,2024
+6,Fluminense,Cuiabá,,,,2024
+6,Sport,Santos,,,,2024
+6,Palmeiras,Bragantino,,,,2024
+6,Corinthians,São Paulo,,,,2024
+6,Juventude,Botafogo,,,,2024
+6,Atlético-MG,Internacional,,,,2024
+6,Grêmio,Fortaleza,,,,2024
+6,Athletico-PR,Atletico-GO,,,,2024
+6,Bahia,Flamengo,,,,2024
+6,Vitória,Cruzeiro,,,,2024
+7,Flamengo,Corinthians,,,,2024
+7,Botafogo,Fluminense,,,,2024
+7,São Paulo,Sport,,,,2024
+7,Santos,Palmeiras,,,,2024
+7,Bragantino,Athletico-PR,,,,2024
+7,Cruzeiro,Cuiabá,,,,2024
+7,Grêmio,Internacional,,,,2024
+7,Atletico-GO,Atlético-MG,,,,2024
+7,Bahia,Juventude,,,,2024
+7,Vitória,Fortaleza,,,,2024
+8,Flamengo,Cruzeiro,,,,2024
+8,Botafogo,Vitória,,,,2024
+8,São Paulo,Juventude,,,,2024
+8,Corinthians,Fluminense,,,,2024
+8,Bragantino,Santos,,,,2024
+8,Atlético-MG,Palmeiras,,,,2024
+8,Internacional,Bahia,,,,2024
+8,Athletico-PR,Grêmio,,,,2024
+8,Fortaleza,Sport,,,,2024
+8,Cuiabá,Atletico-GO,,,,2024
+9,Fluminense,Bragantino,,,,2024
+9,Sport,Flamengo,,,,2024
+9,Palmeiras,Atletico-GO,,,,2024
+9,Santos,Internacional,,,,2024
+9,Juventude,Cuiabá,,,,2024
+9,Cruzeiro,Atlético-MG,,,,2024
+9,Grêmio,São Paulo,,,,2024
+9,Athletico-PR,Botafogo,,,,2024
+9,Fortaleza,Bahia,,,,2024
+9,Vitória,Corinthians,,,,2024
+10,Flamengo,Grêmio,,,,2024
+10,Botafogo,Fortaleza,,,,2024
+10,São Paulo,Palmeiras,,,,2024
+10,Corinthians,Cuiabá,,,,2024
+10,Juventude,Fluminense,,,,2024
+10,Atlético-MG,Bragantino,,,,2024
+10,Internacional,Cruzeiro,,,,2024
+10,Athletico-PR,Palmeiras,,,,2024
+10,Bahia,Grêmio,,,,2024
+10,Vitória,Athletico-PR,,,,2024
+11,Fluminense,Atlético-MG,,,,2024
+11,Sport,Juventude,,,,2024
+11,São Paulo,Athletico-PR,,,,2024
+11,Santos,Corinthians,,,,2024
+11,Bragantino,Flamengo,,,,2024
+11,Cruzeiro,Fortaleza,,,,2024
+11,Grêmio,Vitória,,,,2024
+11,Atletico-GO,Internacional,,,,2024
+11,Bahia,Palmeiras,,,,2024
+11,Cuiabá,Botafogo,,,,2024
+12,Fluminense,Bahia,,,,2024
+12,Sport,Cuiabá,,,,2024
+12,Palmeiras,Botafogo,,,,2024
+12,Santos,Flamengo,,,,2024
+12,Bragantino,Juventude,,,,2024
+12,Cruzeiro,São Paulo,,,,2024
+12,Grêmio,Atletico-GO,,,,2024
+12,Athletico-PR,Corinthians,,,,2024
+12,Fortaleza,Atlético-MG,,,,2024
+12,Vitória,Internacional,,,,2024
+13,Flamengo,Fortaleza,,,,2024
+13,Botafogo,Sport,,,,2024
+13,São Paulo,Fluminense,,,,2024
+13,Corinthians,Bragantino,,,,2024
+13,Juventude,Atletico-GO,,,,2024
+13,Atlético-MG,Vitória,,,,2024
+13,Internacional,Cruzeiro,,,,2024
+13,Athletico-PR,Palmeiras,,,,2024
+13,Bahia,Grêmio,,,,2024
+13,Cuiabá,Santos,,,,2024
+14,Fluminense,Internacional,,,,2024
+14,Sport,Cruzeiro,,,,2024
+14,Palmeiras,Flamengo,,,,2024
+14,Santos,Juventude,,,,2024
+14,Bragantino,São Paulo,,,,2024
+14,Atlético-MG,Corinthians,,,,2024
+14,Grêmio,Botafogo,,,,2024
+14,Atletico-GO,Vitória,,,,2024
+14,Fortaleza,Athletico-PR,,,,2024
+14,Cuiabá,Bahia,,,,2024
+15,Fluminense,Flamengo,,,,2024
+15,Botafogo,Bragantino,,,,2024
+15,São Paulo,Santos,,,,2024
+15,Corinthians,Grêmio,,,,2024
+15,Juventude,Atlético-MG,,,,2024
+15,Cruzeiro,Atletico-GO,,,,2024
+15,Internacional,Palmeiras,,,,2024
+15,Athletico-PR,Bahia,,,,2024
+15,Fortaleza,Cuiabá,,,,2024
+15,Vitória,Sport,,,,2024
+16,Flamengo,Vitória,,,,2024
+16,Sport,Athletico-PR,,,,2024
+16,Palmeiras,Fortaleza,,,,2024
+16,Santos,Botafogo,,,,2024
+16,Bragantino,Internacional,,,,2024
+16,Cruzeiro,Juventude,,,,2024
+16,Grêmio,Atlético-MG,,,,2024
+16,Atletico-GO,Fluminense,,,,2024
+16,Bahia,Corinthians,,,,2024
+16,Cuiabá,São Paulo,,,,2024
+17,Fluminense,Santos,,,,2024
+17,Botafogo,Atletico-GO,,,,2024
+17,São Paulo,Bahia,,,,2024
+17,Corinthians,Sport,,,,2024
+17,Juventude,Grêmio,,,,2024
+17,Atlético-MG,Flamengo,,,,2024
+17,Internacional,Cuiabá,,,,2024
+17,Athletico-PR,Cruzeiro,,,,2024
+17,Fortaleza,Bragantino,,,,2024
+17,Vitória,Palmeiras,,,,2024
+18,Fluminense,Palmeiras,,,,2024
+18,Sport,Grêmio,,,,2024
+18,São Paulo,Atlético-MG,,,,2024
+18,Santos,Athletico-PR,,,,2024
+18,Juventude,Fortaleza,,,,2024
+18,Cruzeiro,Botafogo,,,,2024
+18,Internacional,Corinthians,,,,2024
+18,Atletico-GO,Bragantino,,,,2024
+18,Bahia,Vitória,,,,2024
+18,Cuiabá,Flamengo,,,,2024
+19,Flamengo,São Paulo,,,,2024
+19,Botafogo,Internacional,,,,2024
+19,Palmeiras,Cruzeiro,,,,2024
+19,Corinthians,Atletico-GO,,,,2024
+19,Bragantino,Sport,,,,2024
+19,Atlético-MG,Bahia,,,,2024
+19,Grêmio,Fluminense,,,,2024
+19,Athletico-PR,Cuiabá,,,,2024
+19,Fortaleza,Santos,,,,2024
+19,Vitória,Juventude,,,,2024
+20,Atletico-GO,Flamengo,,,,2024
+20,São Paulo,Botafogo,,,,2024
+20,Cuiabá,Palmeiras,,,,2024
+20,Cruzeiro,Corinthians,,,,2024
+20,Bahia,Bragantino,,,,2024
+20,Sport,Atlético-MG,,,,2024
+20,Santos,Grêmio,,,,2024
+20,Juventude,Athletico-PR,,,,2024
+20,Internacional,Fortaleza,,,,2024
+20,Fluminense,Vitória,,,,2024
+21,Athletico-PR,Fluminense,,,,2024
+21,Palmeiras,Sport,,,,2024
+21,Vitória,São Paulo,,,,2024
+21,Atlético-MG,Santos,,,,2024
+21,Corinthians,Juventude,,,,2024
+21,Grêmio,Cruzeiro,,,,2024
+21,Flamengo,Internacional,,,,2024
+21,Fortaleza,Atletico-GO,,,,2024
+21,Botafogo,Bahia,,,,2024
+21,Bragantino,Cuiabá,,,,2024
+22,Botafogo,Flamengo,,,,2024
+22,Bahia,Sport,,,,2024
+22,Corinthians,Palmeiras,,,,2024
+22,Vitória,Santos,,,,2024
+22,Cruzeiro,Bragantino,,,,2024
+22,Athletico-PR,Atlético-MG,,,,2024
+22,Juventude,Internacional,,,,2024
+22,São Paulo,Atletico-GO,,,,2024
+22,Fluminense,Fortaleza,,,,2024
+22,Grêmio,Cuiabá,,,,2024
+23,Sport,Fluminense,,,,2024
+23,Atlético-MG,Botafogo,,,,2024
+23,Internacional,São Paulo,,,,2024
+23,Fortaleza,Corinthians,,,,2024
+23,Palmeiras,Juventude,,,,2024
+23,Santos,Cruzeiro,,,,2024
+23,Bragantino,Grêmio,,,,2024
+23,Flamengo,Athletico-PR,,,,2024
+23,Atletico-GO,Bahia,,,,2024
+23,Cuiabá,Vitória,,,,2024
+24,Juventude,Flamengo,,,,2024
+24,Corinthians,Botafogo,,,,2024
+24,Grêmio,Palmeiras,,,,2024
+24,Bahia,Santos,,,,2024
+24,Vitória,Bragantino,,,,2024
+24,Fluminense,Cruzeiro,,,,2024
+24,Athletico-PR,Internacional,,,,2024
+24,Sport,Atletico-GO,,,,2024
+24,São Paulo,Fortaleza,,,,2024
+24,Atlético-MG,Cuiabá,,,,2024
+25,Cuiabá,Fluminense,,,,2024
+25,Santos,Sport,,,,2024
+25,Bragantino,Palmeiras,,,,2024
+25,São Paulo,Corinthians,,,,2024
+25,Botafogo,Juventude,,,,2024
+25,Internacional,Atlético-MG,,,,2024
+25,Fortaleza,Grêmio,,,,2024
+25,Atletico-GO,Athletico-PR,,,,2024
+25,Flamengo,Bahia,,,,2024
+25,Cruzeiro,Vitória,,,,2024
+26,Corinthians,Flamengo,,,,2024
+26,Fluminense,Botafogo,,,,2024
+26,Sport,São Paulo,,,,2024
+26,Palmeiras,Santos,,,,2024
+26,Athletico-PR,Bragantino,,,,2024
+26,Cuiabá,Cruzeiro,,,,2024
+26,Internacional,Grêmio,,,,2024
+26,Atlético-MG,Atletico-GO,,,,2024
+26,Juventude,Bahia,,,,2024
+26,Fortaleza,Vitória,,,,2024
+27,Cruzeiro,Flamengo,,,,2024
+27,Vitória,Botafogo,,,,2024
+27,Juventude,São Paulo,,,,2024
+27,Fluminense,Corinthians,,,,2024
+27,Santos,Bragantino,,,,2024
+27,Palmeiras,Atlético-MG,,,,2024
+27,Bahia,Internacional,,,,2024
+27,Grêmio,Athletico-PR,,,,2024
+27,Sport,Fortaleza,,,,2024
+27,Atletico-GO,Cuiabá,,,,2024
+28,Bragantino,Fluminense,,,,2024
+28,Flamengo,Sport,,,,2024
+28,Atletico-GO,Palmeiras,,,,2024
+28,Internacional,Santos,,,,2024
+28,Cuiabá,Juventude,,,,2024
+28,Atlético-MG,Cruzeiro,,,,2024
+28,São Paulo,Grêmio,,,,2024
+28,Botafogo,Athletico-PR,,,,2024
+28,Bahia,Fortaleza,,,,2024
+28,Corinthians,Vitória,,,,2024
+29,Grêmio,Flamengo,,,,2024
+29,Fortaleza,Botafogo,,,,2024
+29,Palmeiras,São Paulo,,,,2024
+29,Cuiabá,Corinthians,,,,2024
+29,Fluminense,Juventude,,,,2024
+29,Bragantino,Atlético-MG,,,,2024
+29,Cruzeiro,Internacional,,,,2024
+29,Palmeiras,Athletico-PR,,,,2024
+29,Grêmio,Bahia,,,,2024
+29,Athletico-PR,Vitória,,,,2024
+30,Atlético-MG,Fluminense,,,,2024
+30,Juventude,Sport,,,,2024
+30,Athletico-PR,São Paulo,,,,2024
+30,Corinthians,Santos,,,,2024
+30,Flamengo,Bragantino,,,,2024
+30,Fortaleza,Cruzeiro,,,,2024
+30,Vitória,Grêmio,,,,2024
+30,Internacional,Atletico-GO,,,,2024
+30,Palmeiras,Bahia,,,,2024
+30,Botafogo,Cuiabá,,,,2024
+31,Bahia,Fluminense,,,,2024
+31,Cuiabá,Sport,,,,2024
+31,Botafogo,Palmeiras,,,,2024
+31,Flamengo,Santos,,,,2024
+31,Juventude,Bragantino,,,,2024
+31,São Paulo,Cruzeiro,,,,2024
+31,Atletico-GO,Grêmio,,,,2024
+31,Corinthians,Athletico-PR,,,,2024
+31,Atlético-MG,Fortaleza,,,,2024
+31,Internacional,Vitória,,,,2024
+32,Fortaleza,Flamengo,,,,2024
+32,Sport,Botafogo,,,,2024
+32,Fluminense,São Paulo,,,,2024
+32,Bragantino,Corinthians,,,,2024
+32,Atletico-GO,Juventude,,,,2024
+32,Vitória,Atlético-MG,,,,2024
+32,Cruzeiro,Internacional,,,,2024
+32,Palmeiras,Athletico-PR,,,,2024
+32,Grêmio,Bahia,,,,2024
+32,Santos,Cuiabá,,,,2024
+33,Internacional,Fluminense,,,,2024
+33,Cruzeiro,Sport,,,,2024
+33,Flamengo,Palmeiras,,,,2024
+33,Juventude,Santos,,,,2024
+33,São Paulo,Bragantino,,,,2024
+33,Corinthians,Atlético-MG,,,,2024
+33,Botafogo,Grêmio,,,,2024
+33,Vitória,Atletico-GO,,,,2024
+33,Athletico-PR,Fortaleza,,,,2024
+33,Bahia,Cuiabá,,,,2024
+34,Flamengo,Fluminense,,,,2024
+34,Bragantino,Botafogo,,,,2024
+34,Santos,São Paulo,,,,2024
+34,Grêmio,Corinthians,,,,2024
+34,Atlético-MG,Juventude,,,,2024
+34,Atletico-GO,Cruzeiro,,,,2024
+34,Palmeiras,Internacional,,,,2024
+34,Bahia,Athletico-PR,,,,2024
+34,Cuiabá,Fortaleza,,,,2024
+34,Sport,Vitória,,,,2024
+35,Vitória,Flamengo,,,,2024
+35,Athletico-PR,Sport,,,,2024
+35,Fortaleza,Palmeiras,,,,2024
+35,Botafogo,Santos,,,,2024
+35,Internacional,Bragantino,,,,2024
+35,Juventude,Cruzeiro,,,,2024
+35,Atlético-MG,Grêmio,,,,2024
+35,Fluminense,Atletico-GO,,,,2024
+35,Corinthians,Bahia,,,,2024
+35,São Paulo,Cuiabá,,,,2024
+36,Santos,Fluminense,,,,2024
+36,Atletico-GO,Botafogo,,,,2024
+36,Bahia,São Paulo,,,,2024
+36,Sport,Corinthians,,,,2024
+36,Grêmio,Juventude,,,,2024
+36,Flamengo,Atlético-MG,,,,2024
+36,Cuiabá,Internacional,,,,2024
+36,Cruzeiro,Athletico-PR,,,,2024
+36,Bragantino,Fortaleza,,,,2024
+36,Palmeiras,Vitória,,,,2024
+37,Palmeiras,Fluminense,,,,2024
+37,Grêmio,Sport,,,,2024
+37,Atlético-MG,São Paulo,,,,2024
+37,Athletico-PR,Santos,,,,2024
+37,Fortaleza,Juventude,,,,2024
+37,Botafogo,Cruzeiro,,,,2024
+37,Corinthians,Internacional,,,,2024
+37,Bragantino,Atletico-GO,,,,2024
+37,Vitória,Bahia,,,,2024
+37,Flamengo,Cuiabá,,,,2024
+38,São Paulo,Flamengo,,,,2024
+38,Internacional,Botafogo,,,,2024
+38,Cruzeiro,Palmeiras,,,,2024
+38,Atletico-GO,Corinthians,,,,2024
+38,Sport,Bragantino,,,,2024
+38,Bahia,Atlético-MG,,,,2024
+38,Fluminense,Grêmio,,,,2024
+38,Cuiabá,Athletico-PR,,,,2024
+38,Santos,Fortaleza,,,,2024
+38,Juventude,Vitória,,,,2024
